@@ -1,7 +1,7 @@
-//package training;
+package chapter3;
 
 public class SampleClass {
-    public int len = 100;
+    public int len = 10;
     public int[] table = new int[len];
 
     public SampleClass() {
