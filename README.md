@@ -1,2 +1,2 @@
-# java_training
+# Java training
 Java playground
