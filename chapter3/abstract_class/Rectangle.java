@@ -1,6 +1,6 @@
 package chapter3.abstract_class;
 
-class Rectangle extends Shape {
+public class Rectangle extends Shape {
     protected double w, h;
     public Rectangle(double w, double h) {
         this.w = w; this.h = h;
